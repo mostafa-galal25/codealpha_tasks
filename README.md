@@ -1,5 +1,6 @@
-# codealpha_tasks
-codealpha_tasks:
+##### codealpha_tasks
+
+
   Task 1 : Chatbot for FAQs :
                   ● Collect FAQs related to a topic or product (questions and their answers).
                   ● Preprocess the text using NLP libraries like NLTK or SpaCy (tokenize, clean, etc.).
